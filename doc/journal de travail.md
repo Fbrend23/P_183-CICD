@@ -20,3 +20,10 @@
 | 17.11.2025 | 0h15         | Analyse avec Deepsource               | 595 Issues rencontrés                                                                                         |
 | 17.11.2025 | 0h15         | Analyse avec SonarQube cloud          |                                                                                                               |
 | 17.11.2025 | 0h30         | Rédaction du rapport                  | Liste des outils disponibles, Utilisation, Avantages et inconvenients                                         |
+
+## Semaine 3
+
+| Date       | Durée (2h15) | Activité                                                                                                  | Commentaire |
+| ---------- | ------------ | --------------------------------------------------------------------------------------------------------- | ----------- |
+| 20.11.2025 | 1h30         | Rapport, avantages et inconvenients                                                                       |             |
+| 20.11.2025 | 0h45         | Documentation et tests de configuration pour que Dependabot ignore les modules lié au dev (faux positifs) |             |
