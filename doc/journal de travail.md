@@ -27,3 +27,10 @@
 | ---------- | ------------ | --------------------------------------------------------------------------------------------------------- | ----------- |
 | 20.11.2025 | 1h30         | Rapport, avantages et inconvenients                                                                       |             |
 | 20.11.2025 | 0h45         | Documentation et tests de configuration pour que Dependabot ignore les modules lié au dev (faux positifs) |             |
+
+## Semaine 4
+
+| Date       | Durée (2h15) | Activité                                                        | Commentaire                                                          |
+| ---------- | ------------ | --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 04.12.2025 | 1h45         | Configuration de SonarQube                                      | Bien suivre les isntructions sur sonarqube et faire une pull request |
+| 04.12.2025 | 0h30         | Ajout des étapes de configurations de SonarQube dans le rapport |                                                                      |
