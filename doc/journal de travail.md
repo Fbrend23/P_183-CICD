@@ -37,7 +37,8 @@
 
 ## Semaine 4
 
-| Date       | Durée (2h15) | Activité | Commentaire |
-| ---------- | ------------ | -------- | ----------- |
-| 11.12.2025 |              |          |             |
-| 11.12.2025 |              |          |             |
+| Date       | Durée (2h15) | Activité                   | Commentaire                         |
+| ---------- | ------------ | -------------------------- | ----------------------------------- |
+| 11.12.2025 | 0h15         | Impression des documents   |                                     |
+| 11.12.2025 | 0h45         | Installation de trufflehog | problèmes a cause du répo en privé, |
+| 11.12.2025 | 1h15         | Installation de clé ssh    |                                     |
