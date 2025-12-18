@@ -42,3 +42,12 @@
 | 11.12.2025 | 0h15         | Impression des documents   |                                     |
 | 11.12.2025 | 0h45         | Installation de trufflehog | problèmes a cause du répo en privé, |
 | 11.12.2025 | 1h15         | Installation de clé ssh    |                                     |
+
+## Semaine 5
+
+| Date       | Durée (2h15) | Activité                                                                       | Commentaire                                                                                        |
+| ---------- | ------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| 11.12.2025 | 0h30         | Rapport sur les problèmes rencontrés                                           | Beaucoup de problèmes depuis que le repo est passé en privé notamment avec SonarQube et TruffleHog |
+| 11.12.2025 | 1h00         | Recherche de solutions pour SonarQube afin qu'il fonctionne avec un repo privé | Tentative de refresh du jeton [f754b87]                                                            |
+| 11.12.2025 | 0h30         | Résolution et analyse du projet sur SonarQube                                  | L'analyse automatique était désactivée dans les options du projet                                  |
+| 11.12.2025 | 0h15         | Rapport sur les problèmes rencontrés pour SonarQube ainsi que la conclusion    |                                                                                                    |
